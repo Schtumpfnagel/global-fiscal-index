@@ -26,8 +26,8 @@ configs:
 # Global Macroeconomic, Monetary & Fiscal Open Metadata Index (2024–2026)
 
 **Primary Institutional Terminal:** [Fiscal Index (https://www.fiscalindex.org)](https://www.fiscalindex.org)  
-**Last Automated Sync:** `2026-10-21 22:06 UTC`  
-**Total Indexed Public Records in Catalog:** `1,150`
+**Last Automated Sync:** `2026-10-22 01:11 UTC`  
+**Total Indexed Public Records in Catalog:** `1,172`
 
 ---
 
